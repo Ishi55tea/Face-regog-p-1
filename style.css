@@ -1,0 +1,8 @@
+.heading{
+    background: rgb(179,0,255);
+background: linear-gradient(90deg, rgba(179,0,255,1) 0%, rgba(0,249,255,1) 25%, rgba(255,0,198,1) 50%, rgba(0,249,255,1) 75%, rgba(179,0,255,1) 100%);
+}
+body{
+    background: rgb(179,0,255);
+background: linear-gradient(90deg, rgba(179,0,255,1) 0%, rgba(0,249,255,1) 25%, rgba(255,0,198,1) 50%, rgba(0,249,255,1) 75%, rgba(179,0,255,1) 100%);
+}
